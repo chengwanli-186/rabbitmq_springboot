@@ -19,16 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c87e6c71-dabe-4e61-970a-62facdadfb7c" name="Default Changelist" comment="">
+    <list default="true" id="c87e6c71-dabe-4e61-970a-62facdadfb7c" name="Default Changelist" comment="RabbitMQ整合SpringBoot演示">
       <change afterPath="$PROJECT_DIR$/../rabbitmq_day1/rabbitmq_day1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq_springboot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/Fanout/FanoutCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/hellotwodirect/HelloCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/route/RouteCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/topic/topicCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/workmodule/WorkCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/baizhi/test/TestRabbitMQ.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Customer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Provider.java" afterDir="false" />
@@ -92,7 +84,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../rabbitmq_springboot_github" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -208,8 +200,16 @@
       <updated>1602294756801</updated>
       <workItem from="1602294763639" duration="10846000" />
       <workItem from="1602325744813" duration="12000" />
-      <workItem from="1602473347201" duration="80000" />
+      <workItem from="1602473347201" duration="594000" />
     </task>
+    <task id="LOCAL-00001" summary="RabbitMQ整合SpringBoot演示">
+      <created>1602473648508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602473648508</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,12 +227,20 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RabbitMQ整合SpringBoot演示" />
+    <option name="LAST_COMMIT_MESSAGE" value="RabbitMQ整合SpringBoot演示" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="472" y="87" key="FileChooserDialogImpl" timestamp="1602473359453">
+    <state x="472" y="87" key="FileChooserDialogImpl" timestamp="1602473570648">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="472" y="87" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473359453" />
+    <state x="472" y="87" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473570648" />
     <state x="2510" y="110" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602296304900" />
+    <state x="604" y="310" width="327" height="296" key="Github.ShareDialog" timestamp="1602473698171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="604" y="310" width="327" height="296" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473698171" />
     <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1602325622942">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -265,10 +273,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
-    <state x="249" y="0" key="SettingsEditor" timestamp="1602473426892">
+    <state x="249" y="0" key="SettingsEditor" timestamp="1602473940674">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473426892" />
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473940674" />
     <state x="2231" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602296320397" />
     <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602299582307">
       <screen x="0" y="0" width="1536" height="824" />
