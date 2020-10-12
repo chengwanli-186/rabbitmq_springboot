@@ -1,0 +1,10 @@
+#当前springboot项目应用的名字，该名字在单体服务中没有什么意义，在微服务架构中才有意义
+spring:
+  application:
+    name: rabbitmq-springboot
+  rabbitmq:
+    host: 192.168.74.132
+    port: 5672
+    username: ems
+    password: 123
+    virtual-host: /ems

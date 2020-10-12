@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c87e6c71-dabe-4e61-970a-62facdadfb7c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../rabbitmq_day1/rabbitmq_day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq_springboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/Fanout/FanoutCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/hellotwodirect/HelloCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/route/RouteCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/topic/topicCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/baizhi/workmodule/WorkCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/baizhi/test/TestRabbitMQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/direct/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Customer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Customer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Customer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Customer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Customer3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Customer3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/fanout/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/routingdirect/Customer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/routingdirect/Customer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/routingdirect/Customer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/routingdirect/Customer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/routingdirect/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/routingdirect/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/topic/Customer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/topic/Customer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/topic/Customer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/topic/Customer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/topic/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/topic/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/utils/RabbitMQUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/utils/RabbitMQUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/workqueue/Customer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/workqueue/Customer1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/workqueue/Customer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/workqueue/Customer2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/workqueue/Provider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/java/workqueue/Provider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/direct/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/direct/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/topic/Customer2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/topic/Customer2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/topic/Customer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/topic/Customer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/topic/Provider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/topic/Provider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/utils/RabbitMQUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../rabbitmq_day1/target/classes/utils/RabbitMQUtils.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository_idea" />
+        <option name="mavenHome" value="$MAVEN_REPOSITORY$" />
+        <option name="userSettingsFile" value="E:\SuYanWork\maven-3.3.9\apache-maven-3.3.9\conf\settings_idea1.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ifNbNokMiwnt1IsJPYT2qemLPA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="JUnit.TestRabbitMQ.testTopic">
+    <configuration name="TestRabbitMQ.testFanout" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="testFanout" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitMQ.testRoute" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="testRoute" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitMQ.testTopic" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="testTopic" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitMQ.testdirect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="testdirect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRabbitMQ.testwork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="rabbitmq_springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baizhi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baizhi.test" />
+      <option name="MAIN_CLASS_NAME" value="com.baizhi.test.TestRabbitMQ" />
+      <option name="METHOD_NAME" value="testwork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RabbitmqSpringbootApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="rabbitmq_springboot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baizhi.RabbitmqSpringbootApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRabbitMQ.testTopic" />
+        <item itemvalue="JUnit.TestRabbitMQ.testRoute" />
+        <item itemvalue="JUnit.TestRabbitMQ.testFanout" />
+        <item itemvalue="JUnit.TestRabbitMQ.testdirect" />
+        <item itemvalue="JUnit.TestRabbitMQ.testwork" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c87e6c71-dabe-4e61-970a-62facdadfb7c" name="Default Changelist" comment="" />
+      <created>1602294756801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602294756801</updated>
+      <workItem from="1602294763639" duration="10846000" />
+      <workItem from="1602325744813" duration="12000" />
+      <workItem from="1602473347201" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="472" y="87" key="FileChooserDialogImpl" timestamp="1602473359453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="472" y="87" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473359453" />
+    <state x="2510" y="110" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602296304900" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1602325622942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1602325622941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622941" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1602325622941">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622941" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1602325622942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1602325622942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1602325622942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1602325622942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1602325622942">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602325622942" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1602473426892">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602473426892" />
+    <state x="2231" y="0" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602296320397" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602299582307">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1602299582307" />
+  </component>
+</project>
